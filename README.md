@@ -17,6 +17,6 @@ Only a specific role can run those commands, and that role has been hardcoded in
 
 When a server member joins the target channel, the target role will be applied to them. <br />
 When said user switches to another channel or leaves the call entirely, that role will be removed. <br />
-<h6> NOTE: Any user who can run setup commands may also apply or remove the target role manually </h6>
+<h6> NOTE: Any user who can run setup commands may also remove the target role manually </h6>
 
 If the target channel is changed, any users in the old target channel will **keep** the target role.
